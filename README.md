@@ -5,6 +5,7 @@ A simple RESTful API to manage tasks, built with Django and Django REST Framewor
 ## 🚀 Features
 - Create / Read / Update / Delete Tasks
 - Admin panel to manage tasks
+- Authentication
 - Filter by completion status
 
 ## 🔧 Tech Stack
